@@ -33,4 +33,4 @@ I have chosen this license because it is simple, permissive and optimized for de
 ## Contact
 Email: livjyots11.ca@gmail.com
 
-Website URL: https://livjyot.github.io/My-Portfolio/
+Portfolio: https://livjyot.github.io/My-Portfolio/
