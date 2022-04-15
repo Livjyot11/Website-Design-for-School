@@ -31,6 +31,6 @@ Distributed under the MIT License.
 I have chosen this license because it is simple, permissive and optimized for developers. Its free of charge without limiting the rights to use, copy, modify, merge, publish, distribute and sublicense and/or sell copies of the Software. A significant benefit of using the MIT license is that it serves both sides of the debate equally well. Due to the MIT License’s open language, it’s suitable for both community developers and teams that want to produce propriety software using existing pieces of MIT licensed code.
 
 ## Contact
-Email: livjyotsingh.ca@gmail.com
+Email: livjyots11.ca@gmail.com
 
-Website URL: https://livjyot.github.io/Github-Startup/
+Website URL: https://livjyot.github.io/My-Portfolio/
