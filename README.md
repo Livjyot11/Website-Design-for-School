@@ -1,3 +1,5 @@
+![](Images/Final%20Prototypes/Front%20Page.png)
+
 ## Introduction
  
 The Ontario Ministry of Training, Colleges and Universities has proposed a new college in the area that will have curriculum devoted completely to media and design, especially digital media and software design .This website is basically for an
