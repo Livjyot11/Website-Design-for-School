@@ -2,10 +2,7 @@
 
 ## Introduction
  
-The Ontario Ministry of Training, Colleges and Universities has proposed a new college in the area that will have curriculum devoted completely to media and design, especially digital media and software design .This website is basically for an
-educational institution, this website should display the geographical influence on the content and design of the web pages, many students from urban areas will be attracted
-as well. If the inspiration is to be taken from the native art pieces, it should be donewith great sensitivity to avoid the cliché. The website design should definitely represent
-the native area. The ultimate goal of this software is to attract the target audience that includes the students, faculty as well as the parents of the students. It should be easily accessible by differently-abled persons with disabilities as
+The Ontario Ministry of Training, Colleges and Universities proposed a new college in the area that will have curriculum devoted completely to media and design, especially digital media and software design. This website is basically for an educational institution, this website should display the geographical influence on the content and design of the web pages, many students from urban areas will be attractedas well. If the inspiration is to be taken from the native art pieces, it should be donewith great sensitivity to avoid the cliché. The website design should definitely represent the native area. The ultimate goal of this software is to attract the target audience that includes the students, faculty as well as the parents of the students. It should be easily accessible by differently-abled persons with disabilities as
 
 ## Needs and Goals
 
