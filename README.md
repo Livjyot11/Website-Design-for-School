@@ -22,7 +22,7 @@ No need to rely on installing any external dependencies or services. Just downlo
 
 ## Usage
 
-Use this site to view the designs of the projects. In addition, this portfolio showcase my skills in the field of UX/UI Design in order to get job offers.
+Use this site to view the designs of the projects. In addition, this project showcase my skills in the field of UX/UI Design in order to get job offers.
 
 ## License
 Distributed under the MIT License. 
